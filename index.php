@@ -8,4 +8,4 @@ echo "HI azure app ";
 #echo " DEVOPS ";
 #echo "getenv("$var3")";
 echo getenv("var3");
-echo getenv("var4");
+echo getenv("var2");
