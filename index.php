@@ -1,5 +1,5 @@
 <?php
-include 'myfile.php';
+include 'config.php';
 echo "$var1";
 echo "$var2";
 echo "HI azure app ";
