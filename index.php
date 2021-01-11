@@ -9,3 +9,4 @@ echo "HI azure app ";
 #echo "getenv("$var3")";
 echo getenv("var3");
 echo getenv("var2");
+echo $var2;
