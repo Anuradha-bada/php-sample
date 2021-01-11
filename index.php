@@ -1,6 +1,5 @@
 <?php
-include 'web.config';
-include 'config.php'
+include 'config.php';
 echo "$var1";
 echo "$var2";
 echo "$var4";
