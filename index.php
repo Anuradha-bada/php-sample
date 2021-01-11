@@ -7,4 +7,4 @@ echo "$var3";
 echo "HI azure app ";
 #echo " DEVOPS ";
 #echo "getenv("$var3")";
-echo getenv("var3")
+echo getenv("var3");
