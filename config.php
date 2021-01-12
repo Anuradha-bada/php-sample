@@ -1,3 +1,3 @@
 <?php
-$var1='value1';
-$var2="value2";
+$var1='HIII';
+$var2="GOOD MORNING";
