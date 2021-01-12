@@ -5,6 +5,6 @@ echo "</br>";
 echo "printing variable2&nbsp&nbsp" . $var2 . "</br>";
 #echo " DEVOPS ";
 #echo "getenv("$var3")";
-echo getenv("var1");
+echo $var3;
 echo "</br>";
 echo getenv("var2");
