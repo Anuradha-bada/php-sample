@@ -1,6 +1,7 @@
 <?php
 include 'config.php';
 echo "$var1";
+echo "</br>"
 echo "$var2";
 echo "$var3";
 #echo "ConfigurationSettings.AppSettings["var4"]"
